@@ -1,0 +1,27 @@
+{
+    "id": 121985059,
+    "name": "Only a G",
+    "author": "heitorfbd",
+    "creators": [
+        "heitorfbd"
+    ],
+    "verifier": "loooookkk",
+    "verification": "https://www.youtube.com/watch?v=nB8zePcEy5Y",
+    "percentToQualify": "100",
+    "FPS": "60",
+    "tags": ["60 FPS", "No Transition", "Straight Spam"],
+    "records": [
+        {
+            "user": "ywuChaos",
+            "link": "https://www.youtube.com/watch?v=nB8zePcEy5Y",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ad3usgmd",
+            "link": "https://www.youtube.com/watch?v=YiD9SJIdiaE",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

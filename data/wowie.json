@@ -1,0 +1,54 @@
+{
+    "id": 68245940,
+    "name": "wowie",
+    "author": "GDBentsagod",
+    "creators": [],
+    "verifier": "GDBentsagod",
+    "verification": "https://www.youtube.com/watch?v=80etAwUNhnU",
+    "percentToQualify": "100",
+    "FPS": "60",
+    "tags": ["60 FPS", "With Transition", "Straight Spam"],
+    "records": [
+        {
+            "user": "PaperGuy",
+            "link": "https://www.youtube.com/watch?v=EEJasGGt9H4",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Frozix",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "IsntAdam",
+            "link": "https://www.youtube.com/watch?v=a0atnVzrAfc",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "PureL",
+            "link": "https://medal.tv/games/geometry-dash/clips/iHyytSU3vVQcjZ3Zi/d1337x83VISs?invite=cr-MSxCeFUsNDY0ODc4OSw",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "aelzfr",
+            "link": "https://youtu.be/UPUnZ2Iq-Ik?si=Ypfp8OR1B6qF-Vud&t=30",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "pixelfactorial",
+            "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1304676508467728425",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/X1DI3Rw02a4",
+            "hz": 60,
+            "percent": 100
+        }
+    ]
+}

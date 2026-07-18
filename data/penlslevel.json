@@ -1,0 +1,39 @@
+{
+    "id": 113290822,
+    "name": "penls level",
+    "author": "zXnor",
+    "creators": [
+        "zXnor"
+    ],
+    "verifier": "Xnor",
+    "verification": "https://www.youtube.com/watch?v=9Rr2toEurV8",
+    "percentToQualify": "100",
+    "FPS": "60",
+    "tags": ["60 FPS", "With Transition", "Straight Spam"],
+    "records": [
+        {
+            "user": "pixelfactorial",
+            "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1325000945133949039",
+            "hz": "60",
+            "percent": 100
+        },
+        {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/ugCWjJST_5Q",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "loooookkk",
+            "link": "https://youtu.be/IV0IacuY3_s?si=03C8WoK6UB91vqcq&t=111",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "PaperGuy",
+            "link": "https://youtu.be/xm8plnxzi3g",
+            "hz": 60,
+            "percent": 100
+        }
+    ]
+}

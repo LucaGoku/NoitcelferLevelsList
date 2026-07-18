@@ -1,0 +1,83 @@
+{
+    "id": 69103025,
+    "name": "Cod Crack Extention",
+    "author": "Tap33",
+    "creators": [],
+    "verifier": "Tap33",
+    "verification": "https://www.youtube.com/watch?v=oaFVJNEVm3k",
+    "percentToQualify": "100",
+    "FPS": "60",
+    "tags": [
+        "60 FPS",
+        "No Transition",
+        "Straight Spam"
+    ],
+    "records": [
+        {
+            "user": "PaperGuy",
+            "link": "https://www.youtube.com/watch?v=QAzdRnuHvdI",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Frozix",
+            "link": "https://www.youtube.com/watch?v=fEI4z5yZdxA",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Me24345",
+            "percent": 100,
+            "hz": 60,
+            "link": "https://youtu.be/h-Nk4Icggqg?si=6bjSyUoaRNg0NxXr"
+        },
+        {
+            "user": "Xnor",
+            "percent": 100,
+            "hz": 60,
+            "link": "https://youtu.be/ps_rTlXfawQ"
+        },
+        {
+            "user": "Pastelliano",
+            "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1336401077720846468",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/mNOj-wMHY_I",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "pixelfactorial",
+            "link": "https://www.youtube.com/watch?v=ToJVgaDfuCo",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "loooookkk",
+            "link": "https://youtu.be/IV0IacuY3_s?si=03C8WoK6UB91vqcq&t=175",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Astroguy",
+            "link": "https://youtu.be/QmgdVtD3svo?si=vN-P8TA-3h-vNEln&t=1",
+            "hz": "60",
+            "percent": 100
+        },
+        {
+            "user": "ad3usgmd",
+            "link": "https://www.youtube.com/watch?v=O2EFKvP8z6w",
+            "hz": "60",
+            "percent": 100
+        },
+        {
+            "user": "Sol-XSL",
+            "link": "https://youtu.be/DuZinlkZjqg",
+            "hz": "60",
+            "percent": 100
+        }
+    ]
+}

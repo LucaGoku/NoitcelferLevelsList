@@ -1,0 +1,39 @@
+{
+    "id": 116845841,
+    "name": "FEIN SPAM",
+    "author": "NanduO3O",
+    "creators": [
+        "NanduO3O"
+    ],
+    "verifier": "Xnor",
+    "verification": "https://www.youtube.com/watch?v=_hLao_OLezE",
+    "percentToQualify": "100",
+    "FPS": "60",
+    "tags": ["60 FPS", "No Transition", "Straight Spam"],
+    "records": [
+        {
+            "user": "ywuChaos",
+            "link": "https://www.youtube.com/watch?v=nB8zePcEy5Y",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "loooookkk",
+            "link": "https://youtu.be/-m8VcZnAdzc?si=n2Ds-MQJbkLvsB3A&t=64",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "PaperGuy",
+            "link": "https://www.youtube.com/watch?v=8FfuXB4V2nQ",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "ad3usgmd",
+            "link": "https://www.youtube.com/watch?v=O2EFKvP8z6w",
+            "hz": "60",
+            "percent": 100
+        }
+    ]
+}

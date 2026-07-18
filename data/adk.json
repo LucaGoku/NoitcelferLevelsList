@@ -1,0 +1,67 @@
+{
+    "id": 111945047,
+    "name": "adk",
+    "author": "MM9000",
+    "creators": [],
+    "verifier": "MM9000",
+    "verification": "https://www.youtube.com/live/t7ecRlZf0vc?si=6lt60UV9rEI_aUFX",
+    "percentToQualify": "100",
+    "FPS": "60",
+    "tags": ["Straight Spam", "60 FPS", "With Transition"],
+    "records": [
+        {
+            "user": "PaperGuy",
+            "link": "https://www.youtube.com/live/t7ecRlZf0vc?si=6lt60UV9rEI_aUFX",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "pixelfactorial",
+            "link": "https://cdn.discordapp.com/attachments/1268386862079283222/1304872790968504512/adk_-_Made_with_Clipchamp-8.mp4?ex=6754917c&is=67533ffc&hm=da42ac8045ef80dc945d78e3c0a9ef14ed19ff3dfc97f8c2cc26d6b0e0e30240&",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "PureL",
+            "link": "https://youtu.be/tFysj9s6jbY",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "ywuChaos",
+            "hz": 60,
+            "percent": 100,
+            "link": "https://youtu.be/gWVxgPL04aI"
+        },
+        {
+            "user": "Frozix",
+            "link": "https://youtu.be/4WhkcqN40Zw?si=oXxdXW8yIvJ8Adoo&t=49",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "loooookkk",
+            "link": "https://youtu.be/IV0IacuY3_s?si=Vp8wpc6lYvph-eIW&t=7",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Astroguy",
+            "link": "https://www.youtube.com/watch?v=D6guOQyp9Pg",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "MiRPacK19",
+            "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1396916126943940778",
+            "hz": "60",
+            "percent": 100
+        },
+        {
+            "user": "JoeBTD",
+            "link": "https://www.youtube.com/watch?v=tZp0jnSd90A",
+            "hz": 60,
+            "percent": 100
+        }
+    ]
+}

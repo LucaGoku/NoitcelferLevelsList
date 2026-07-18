@@ -1,0 +1,33 @@
+{
+    "id": 95253798,
+    "name": "th3name wont beat",
+    "author": "AverageOnPC",
+    "creators": [
+        "AverageOnPC"
+    ],
+    "verifier": "Me24345",
+    "verification": "https://www.youtube.com/watch?v=WiXTU-NtmyM",
+    "percentToQualify": "100",
+    "FPS": "60",
+    "tags": ["60 FPS", "With Transition", "Straight Spam"],
+    "records": [
+        {
+            "user": "PaperGuy",
+            "link": "https://www.youtube.com/watch?v=jjom33YsJ48",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "IsntAdam",
+            "link": "https://youtu.be/Og72KRPNQnU?si=fYV6EJfCVa7BnlQq",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/JQYtOTQMoq8",
+            "hz": 60,
+            "percent": 100
+        }
+    ]
+}

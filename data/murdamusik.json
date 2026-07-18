@@ -1,0 +1,48 @@
+{
+    "id": 112029097,
+    "name": "murda musik",
+    "author": "pixelfactorial",
+    "creators": [],
+    "verifier": "pixelfactorial",
+    "verification": "https://youtu.be/eMC0N9uiV98?t=27",
+    "percentToQualify": "100",
+    "FPS": "60",
+    "tags": ["60 FPS", "No Transition", "Straight Spam"],
+    "records": [
+        {
+            "user": "PaperGuy",
+            "link": "https://youtu.be/eMC0N9uiV98?t=27",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Pastelliano",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "ywuChaos",
+            "hz": 60,
+            "link": "https://youtu.be/OEZaG_m3b_Q",
+            "percent": 100
+        },
+        {
+            "user": "loooookkk",
+            "link": "https://youtu.be/IV0IacuY3_s?si=03C8WoK6UB91vqcq&t=83",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "ad3usgmd",
+            "link": "https://www.youtube.com/watch?v=O2EFKvP8z6w",
+            "hz": "60",
+            "percent": 100
+        },
+        {
+            "user": "Sol-XSL",
+            "link": "https://youtu.be/qDijDODC_co",
+            "hz": "60",
+            "percent": 100
+        }
+    ]
+}

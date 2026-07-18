@@ -1,0 +1,67 @@
+{
+    "id": 95044869,
+    "name": "Fart Money",
+    "author": "AverageOnPC",
+    "creators": [
+        "SumRandomDude"
+    ],
+    "verifier": "DubbyBall",
+    "verification": "https://www.youtube.com/watch?v=AM5IgPY0s1I",
+    "percentToQualify": "100",
+    "FPS": "60",
+    "tags": ["60 FPS", "No Transition", "Straight Spam"],
+    "records": [
+        {
+            "user": "Frozix",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "PaperGuy",
+            "link": "https://youtu.be/AM5IgPY0s1I?si=_fIgEWDhsBXDd9Ix&t=36",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Me24345",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "pixelfactorial",
+            "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1312321526678425621",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Pastelliano",
+            "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1328022869187366922",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/YgQzTi31QIM",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "loooookkk",
+            "link": "https://youtu.be/IV0IacuY3_s?si=03C8WoK6UB91vqcq&t=96",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "ad3usgmd",
+            "link": "https://www.youtube.com/watch?v=O2EFKvP8z6w",
+            "hz": "60",
+            "percent": 100
+        },
+        {
+            "user": "Sol-XSL",
+            "link": "https://youtu.be/qDijDODC_co",
+            "hz": "60",
+            "percent": 100
+        }
+    ]
+}

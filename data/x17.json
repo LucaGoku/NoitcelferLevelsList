@@ -1,0 +1,31 @@
+{
+    "id": 115120622,
+    "name": "x17onlinevideo",
+    "author": "pixelfactorial",
+    "creators": [],
+    "verifier": "pixelfactorial",
+    "verification": "https://www.youtube.com/watch?v=iVoskr962UQ",
+    "percentToQualify": "100",
+    "fps": "120",
+    "tags": ["120 FPS", "No Transition", "Straight Spam"],
+    "records": [
+        {
+            "user": "Pastelliano",
+            "link": "https://cdn.discordapp.com/attachments/1268386862079283222/1349824454355587102/2025-03-13_16-14-25.mp4?ex=67d4817c&is=67d32ffc&hm=32938cb96910a727d759ec03acda514ccc9cd445a73cd31bd66879321234d9a5&",
+            "hz": 120,
+            "percent": 100
+        },
+        {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/UjxY09qutKE",
+            "hz": "120",
+            "percent": 100
+        },
+        {
+            "user": "loooookkk",
+            "link": "https://youtu.be/FnYQdJ3AcSM",
+            "hz": "120",
+            "percent": 100
+        }
+    ]
+}

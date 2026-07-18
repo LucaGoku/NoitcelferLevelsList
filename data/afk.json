@@ -1,0 +1,87 @@
+{
+    "id": 67278115,
+    "name": "AfK",
+    "author": "Tap33",
+    "creators": [],
+    "verifier": "Tap33",
+    "verification": "https://www.youtube.com/watch?v=0OZ6_qo8bG4",
+    "percentToQualify": "100",
+    "FPS": "60",
+    "tags": [
+        "Straight Spam",
+        "60 FPS",
+        "No Transition"
+    ],
+    "records": [
+        {
+            "user": "PaperGuy",
+            "link": "https://youtu.be/0OZ6_qo8bG4?list=PL2-Fyo9dQ1LjhEXFs_f50DUTjnyRGt9K6&t=23",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Frozix",
+            "link": "https://youtu.be/XNNqUlCwT98?si=ra6rES2DjK_rR5Xa",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "aelzfr",
+            "link": "https://youtu.be/UPUnZ2Iq-Ik?si=noWzD3b-D-ZApKNN&t=37",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "EmpanadR",
+            "link": "https://youtu.be/WHBGdd2onPs?si=H5rFJs0EdTxdioCW",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "pixelfactorial",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Me24345",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Spacezooka",
+            "link": "https://www.youtube.com/watch?v=NiJnvLn2N9U",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "PureL",
+            "link": "https://www.youtube.com/watch?v=2Rc1M0KoTVc",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "IsntAdam",
+            "link": "https://youtu.be/uRT9JqNB3kw?si=KSHIazPjhW_a89ew",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "PureL",
+            "link": "https://youtu.be/tFysj9s6jbY",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/X1DI3Rw02a4",
+            "hz": "60",
+            "percent": 100
+        },
+        {
+            "user": "Thepaekboy",
+            "link": "https://www.youtube.com/watch?v=KwUP5stjx9U",
+            "hz": "60",
+            "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "id": 66243774,
+    "name": "Modded Minecraft",
+    "author": "DubbyBall",
+    "creators": [],
+    "verifier": "DubbyBall",
+    "verification": "https://www.youtube.com/watch?v=UrPo7oBCzOU",
+    "percentToQualify": "100",
+    "FPS": "60",
+    "tags": ["60 FPS", "With Transition", "Straight Spam"],
+    "records": [
+        {
+            "user": "PaperGuy",
+            "link": "https://youtu.be/QAzdRnuHvdI?t=10",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Me24345",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "pixelfactorial",
+            "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1312333503723081771",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/RjbwBEYxBGE",
+            "hz": "60",
+            "percent": 100
+        },
+        {
+            "user": "Frozix",
+            "link": "https://youtu.be/4WhkcqN40Zw?si=kqSeKmPQ4MzIF7MH&t=35",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "loooookkk",
+            "link": "https://youtu.be/IV0IacuY3_s?si=03C8WoK6UB91vqcq&t=130",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "JoeBTD",
+            "link": "https://youtu.be/P6E6nrGUKQ4?si=mflkAaXCtTI0IWiM&t=33",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "ad3usgmd",
+            "link": "https://www.youtube.com/watch?v=YiD9SJIdiaE",
+            "hz": "60",
+            "percent": 100
+        }
+    ]
+}

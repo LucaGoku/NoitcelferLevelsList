@@ -1,0 +1,33 @@
+{
+    "id": 115899732,
+    "name": "nuc",
+    "author": "aelzfr",
+    "creators": [
+        "aelzfr"
+    ],
+    "verifier": "ywuChaos",
+    "verification": "https://www.youtube.com/watch?v=Q0DDDQoSmpA",
+    "percentToQualify": "100",
+    "FPS": "60",
+    "tags": ["60 FPS", "With Transition", "Straight Spam"],
+    "records": [
+        {
+            "user": "PaperGuy",
+            "link": "https://youtu.be/TgVSq7Bakuk",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "loooookkk",
+            "link": "https://youtu.be/FR2SbfRIDlk?si=fTyUg7rwLd429CRN&t=295",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Sol-XSL",
+            "link": "https://youtu.be/xDpdMu3iHAY",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

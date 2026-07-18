@@ -1,0 +1,69 @@
+{
+    "id": 66589913,
+    "name": "T**P",
+    "author": "APiranhaPlant",
+    "creators": [
+        "APiranhaPlant"
+    ],
+    "verifier": "Th3name",
+    "verification": "https://www.youtube.com/watch?v=2VtDVBIXXrk",
+    "percentToQualify": "100",
+    "FPS": "60",
+    "tags": ["60 FPS", "No Transition", "Straight Spam"],
+    "records": [
+        {
+            "user": "PaperGuy",
+            "link": "https://youtu.be/0OZ6_qo8bG4?t=12",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Frozix",
+            "link": "https://youtu.be/XNNqUlCwT98?si=ra6rES2DjK_rR5Xa",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "IsntAdam",
+            "link": "https://www.youtube.com/watch?v=omSXZqNbgTM",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "ivangys",
+            "hz": 60,
+            "link": "https://youtu.be/_DSgoZaIB_U?si=bUPppdJl26X97C8Y",
+            "percent": 100
+        },
+        {
+            "user": "PureL",
+            "hz": 60,
+            "link": "https://medal.tv/games/geometry-dash/clips/iHyoII62X5LBKQjpK/d1337xFbsJjw?invite=cr-MSxXUEcsNDY0ODc4OSw",
+            "percent": 100
+        },
+        {
+            "user": "aelzfr",
+            "hz": 60,
+            "link": "https://www.youtube.com/watch?v=UPUnZ2Iq-Ik",
+            "percent": 100
+        },
+        {
+            "user": "MM9000",
+            "hz": 60,
+            "link": "https://cdn.discordapp.com/attachments/1268386862079283222/1304657143944843336/ukhjbn.mp4?ex=67322a66&is=6730d8e6&hm=4c4ffe28552251d429abfe3d05a67b59f9df367ca079116d6b3d8a5221eaeb8d&",
+            "percent": 100
+        },
+        {
+            "user": "pixelfactorial",
+            "hz": 60,
+            "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1317373720628559873",
+            "percent": 100
+        },
+        {
+            "user": "Lily",
+            "hz": 60,
+            "link": "https://www.youtube.com/watch?v=5e6gdONe4j4",
+            "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "id": 74162134,
+    "name": "Unnerfed Pork Punch",
+    "author": "TTSum",
+    "creators": [
+        "Tap33"
+    ],
+    "verifier": "JoeBTD",
+    "verification": "https://www.youtube.com/watch?v=UCHKU-EuaV4",
+    "percentToQualify": "100",
+    "FPS": "60",
+    "tags": ["60 FPS", "No Transition", "Straight Spam"],
+    "records": [
+        {
+            "user": "PaperGuy",
+            "link": "https://youtu.be/bBIVYjrb3V8",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/gI8rUJVbI-s",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "pixelfactorial",
+            "link": "https://youtu.be/Xyz_26eiK64",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Frozix",
+            "link": "https://youtu.be/xbScDCzZX4Q",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "loooookkk",
+            "link": "https://youtu.be/-m8VcZnAdzc?si=n2Ds-MQJbkLvsB3A&t=80",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ad3usgmd",
+            "link": "https://www.youtube.com/watch?v=O2EFKvP8z6w",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Sol-XSL",
+            "link": "https://youtu.be/FkJWuqQGPBo",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

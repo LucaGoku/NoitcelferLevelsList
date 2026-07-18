@@ -1,0 +1,19 @@
+{
+    "id": 123412018,
+    "name": "tradon challenge",
+    "author": "loooookkk",
+    "creators": [],
+    "verifier": "loooookkk",
+    "verification": "https://www.youtube.com/live/E0320UNUmUs?si=X1G_YxTJfYjWZ1WD&t=6676",
+    "percentToQualify": "100",
+    "FPS": "60",
+    "tags": ["60 FPS", "No Transition", "Straight Spam"],
+    "records": [
+        {
+            "user": "ywuChaos",
+            "link": "https://www.youtube.com/live/E0320UNUmUs?si=X1G_YxTJfYjWZ1WD&t=6676",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "id": 123365284,
+    "name": "Game over",
+    "author": "zLiknod",
+    "creators": [
+        "zLiknod"
+    ],
+    "verifier": "loooookkk",
+    "verification": "www.youtube.com/watch?v=8BKZeO_JEbQ&embeds_referring_euri=https%3A%2F%2Fspamchallenge.pages.dev%2F&source_ve_path=MjM4NTE",
+    "percentToQualify": 100,
+    "FPS": "60",
+    "tags": ["60 FPS", "No Transition", "Straight Spam"],
+    "records": [
+        {
+            "user": "JoeBTD",
+            "link": "https://www.youtube.com/watch?v=Lh0mBflpZzY&feature=youtu.be",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ywuChaos",
+            "link": "https://www.youtube.com/watch?v=mBZodbs4M9M&feature=youtu.be",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

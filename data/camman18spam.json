@@ -1,0 +1,53 @@
+{
+    "id": 116568859,
+    "name": "camman18 spam",
+    "author": "pixelfactorial",
+    "creators": [],
+    "verifier": "pixelfactorial",
+    "verification": "https://www.youtube.com/watch?v=alKh9C6eTwk",
+    "percentToQualify": "100",
+    "FPS": "60",
+    "tags": [
+        "Straight Spam",
+        "60 FPS",
+        "No Transition"
+    ],
+    "records": [
+        {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/kX-ls5jhyWU?si=DNGuBUZ8DDWtDtAZ&t=131",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "loooookkk",
+            "link": "https://youtu.be/IV0IacuY3_s?si=03C8WoK6UB91vqcq&t=118",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "PaperGuy",
+            "link": "https://www.youtube.com/watch?v=xt72zidRBps",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Astroguy",
+            "link": "https://youtu.be/QmgdVtD3svo?si=vN-P8TA-3h-vNEln&t=22",
+            "hz": "60",
+            "percent": 100
+        },
+        {
+            "user": "ad3usgmd",
+            "link": "https://www.youtube.com/watch?v=O2EFKvP8z6w",
+            "hz": "60",
+            "percent": 100
+        },
+        {
+            "user": "Sol-XSL",
+            "link": "https://youtu.be/qDijDODC_co",
+            "hz": "60",
+            "percent": 100
+        }
+    ]
+}

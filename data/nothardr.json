@@ -1,0 +1,33 @@
+{
+    "id": 115844933,
+    "name": "not hard r",
+    "author": "aelzfr",
+    "creators": [
+        "aelzfr"
+    ],
+    "verifier": "ywuChaos",
+    "verification": "https://www.youtube.com/watch?v=gDXIgMH-6Dc",
+    "percentToQualify": "100",
+    "FPS": "60",
+    "tags": ["60 FPS", "No Transition", "Straight Spam"],
+    "records": [
+        {
+            "user": "PaperGuy",
+            "link": "https://www.youtube.com/watch?v=bdOYGgskx9M",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "loooookkk",
+            "link": "https://youtu.be/-m8VcZnAdzc?si=n2Ds-MQJbkLvsB3A&t=150",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ad3usgmd",
+            "link": "https://www.youtube.com/watch?v=YiD9SJIdiaE",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

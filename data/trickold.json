@@ -1,0 +1,45 @@
+{
+    "id": 77872599,
+    "name": "TricK old version",
+    "author": "zFishal",
+    "creators": [
+        "zFishal"
+    ],
+    "verifier": "Ray131",
+    "verification": "https://www.youtube.com/watch?v=jtDPrQUkRdc",
+    "percentToQualify": "100",
+    "FPS": "60",
+    "tags": ["60 FPS", "No Transition", "Straight Spam"],
+    "records": [
+        {
+            "user": "PaperGuy",
+            "link": "https://youtu.be/mfa-iTBXePM",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/s6nTPgjYaGc",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "pixelfactorial",
+            "link": "https://youtu.be/Dsn-Saq0uzQ",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "loooookkk",
+            "link": "https://youtu.be/IV0IacuY3_s?si=03C8WoK6UB91vqcq&t=190",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "ad3usgmd",
+            "link": "https://www.youtube.com/watch?v=O2EFKvP8z6w",
+            "hz": "60",
+            "percent": 100
+        }
+    ]
+}

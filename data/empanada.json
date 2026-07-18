@@ -1,0 +1,114 @@
+{
+    "id": 65743624,
+    "name": "Empanada",
+    "author": "zLunarGD",
+    "creators": [
+        "zLunarGD"
+    ],
+    "verifier": "mangosa",
+    "verification": "https://www.youtube.com/watch?v=amkPxyWgJnM",
+    "percentToQualify": "100",
+    "FPS": "60",
+    "tags": [
+        "60 FPS",
+        "With Transition",
+        "Straight Spam"
+    ],
+    "records": [
+        {
+            "user": "PaperGuy",
+            "link": "https://www.youtube.com/watch?v=z5E8YUYY8Sg",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Frozix",
+            "hz": 60,
+            "percent": 100,
+            "link": "https://youtu.be/w5Woy7xxnvg?si=XH11C_IB_rfkhFUA"
+        },
+        {
+            "user": "IsntAdam",
+            "link": "https://www.youtube.com/watch?v=RqKzZoCW7k4",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "PureL",
+            "link": "https://medal.tv/games/geometry-dash/clips/iHyOt6alcxshe0nXr/d1337EJNXALr?invite=cr-MSx4V1AsNDY0ODc4OSw",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "aelzfr",
+            "link": "https://youtu.be/ppn0nU0Btr0?si=SUqfeOwM0iPt3cfU&t=11",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "LucaGMD",
+            "link": "https://youtu.be/Ycaf92nlY2k?si=lby6W81DgP1ORRT8&t=93",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "EmpanadR",
+            "link": "https://youtu.be/8OapWtxXL70?si=EtNuFdcbTbZSFakU",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "pixelfactorial",
+            "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1304874409189965884",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Me24345",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Poulen",
+            "link": "https://youtu.be/sxfVjqjfPfA?si=_eKE-TnqMsmLdBPR",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "RdmGD",
+            "link": "https://www.youtube.com/watch?v=V3SgOi3G2b4",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Popoff",
+            "hz": 60,
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "Amigo16",
+            "link": "https://youtu.be/2DppQIrHII4",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/SVfGd6mo3-8",
+            "hz": "60",
+            "percent": 100
+        },
+        {
+            "user": "MiRPacK19",
+            "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1396811544066785460",
+            "hz": "60",
+            "percent": 100
+        },
+        {
+            "user": "Thepaekboy",
+            "link": "https://www.youtube.com/watch?v=WGA6UYch6PQ",
+            "hz": "60",
+            "percent": 100
+        }
+    ]
+}

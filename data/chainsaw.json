@@ -1,0 +1,86 @@
+{
+    "id": 65719547,
+    "name": "Chainsaw",
+    "author": "NXISE",
+    "creators": [],
+    "verifier": "NXISE",
+    "verification": "https://www.youtube.com/watch?v=rE7OmE8bNgU",
+    "percentToQualify": "100",
+    "FPS": "60",
+    "tags": [
+        "60 FPS",
+        "With Transition",
+        "Upwards Spam"
+    ],
+    "records": [
+        {
+            "user": "PaperGuy",
+            "link": "https://youtu.be/JSvahiHbhVc?t=103",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "MM9000",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "EmpanadR",
+            "hz": 60,
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "pixelfactorial",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Me24345",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "PureL",
+            "link": "https://youtu.be/tFysj9s6jbY",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/YaoGEhhqqyI",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "JoeBTD",
+            "link": "https://www.youtube.com/watch?v=Y76b5nSTZOM",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "amigo16",
+            "link": "https://youtu.be/RhjvzZuGvyk",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "loooookkk",
+            "link": "https://streamable.com/9h13om",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Thepaekboy",
+            "link": "https://www.youtube.com/watch?v=KZrclaEpM_Y",
+            "hz": "60",
+            "percent": 100
+        },
+        {
+            "user": "Sol-XSL",
+            "link": "https://www.youtube.com/watch?v=UA78e53UhiY",
+            "hz": "60",
+            "percent": 100
+        }
+    ]
+}

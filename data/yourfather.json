@@ -1,0 +1,54 @@
+{
+    "id": 93196012,
+    "name": "your father",
+    "author": "AmIAHamburger",
+    "creators": [],
+    "verifier": "AmIAHamburger",
+    "verification": "https://www.youtube.com/watch?v=nnwRFXJLbX0",
+    "percentToQualify": "100",
+    "FPS": "60",
+    "tags": ["60 FPS", "No Transition", "Straight Spam"],
+    "records": [
+        {
+            "user": "pixelfactorial",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/W_c02CFKjz4",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "PaperGuy",
+            "link": "https://www.youtube.com/watch?v=tvZNr5aFTpc",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "loooookkk",
+            "link": "https://youtu.be/IV0IacuY3_s?si=03C8WoK6UB91vqcq&t=88",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "JoeBTD",
+            "link": "https://youtu.be/nsbalquoqHc?si=XZOXGv0eN2viXxkU&t=41",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "ad3usgmd",
+            "link": "https://www.youtube.com/watch?v=O2EFKvP8z6w",
+            "hz": "60",
+            "percent": 100
+        },
+        {
+            "user": "Sol-XSL",
+            "link": "https://youtu.be/qDijDODC_co",
+            "hz": "60",
+            "percent": 100
+        }
+    ]
+}

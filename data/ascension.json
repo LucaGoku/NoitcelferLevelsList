@@ -1,0 +1,25 @@
+{
+    "id": 93333620,
+    "name": "Ascension",
+    "author": "PaperGuy1",
+    "creators": [
+        "PaperGuy1"
+    ],
+    "verifier": "ywuChaos",
+    "verification": "https://www.youtube.com/watch?v=sNclUv-fJ4g",
+    "percentToQualify": "100",
+    "FPS": "60",
+    "tags": [
+        "60 FPS",
+        "Straight Spam",
+        "No Transition"
+    ],
+    "records": [
+        {
+            "user": "loooookkk",
+            "link": "https://youtu.be/-m8VcZnAdzc?si=n2Ds-MQJbkLvsB3A&t=170",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "id": 123663212,
+    "name": "Evil Plans",
+    "author": "Cookie498",
+    "creators": [
+        "Cookie498"
+    ],
+    "verifier": "loooookkk",
+    "verification": "https://www.youtube.com/watch?v=pAgDFdQH3p4",
+    "percentToQualify": "100",
+    "FPS": "60",
+    "tags": ["60 FPS", "No Transition", "Straight Spam"],
+    "records": [
+        {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/WJjExNa7TmE",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Sol-XSL",
+            "link": "https://youtu.be/YfKYpjLNaFQ",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+[
+    {
+        "role": "owner",
+        "name": "LucaGMD",
+        "link": "https://www.youtube.com/@lucagmd"
+    },
+    {
+        "role": "admin",
+        "name": "idk",
+        "link": "https://www.youtube.com/watch?v=RRpP1wlIrKk"
+    },
+    {
+        "role": "helper",
+        "name": "idk",
+        "link": "https://www.youtube.com/watch?v=RRpP1wlIrKk"
+    },
+    {
+        "role": "trial",
+        "name": "idk",
+        "link": "https://www.youtube.com/watch?v=RRpP1wlIrKk"
+    },
+    {
+        "role": "dev",
+        "name": "idk",
+        "link": "https://www.youtube.com/watch?v=RRpP1wlIrKk"
+    }
+]

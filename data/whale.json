@@ -1,0 +1,31 @@
+{
+    "id": 123924928,
+    "name": "Whale",
+    "author": "beej",
+    "creators": [],
+    "verifier": "beej",
+    "verification": "www.youtube.com/watch?v=vjdaSK-lk50%5C",
+    "percentToQualify": "100",
+    "FPS": "60",
+    "tags": ["60 FPS", "No Transition", "Straight Spam"],
+    "records": [
+        {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/u6rwT6vMPzc",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "loooookkk",
+            "link": "https://youtu.be/Xn9w6JzTRLw?si=LGpmdwGJ2rYMsx-j&t=51",
+            "hz": "60",
+            "percent": 100
+        },
+        {
+            "user": "ad3usgmd",
+            "link": "https://www.youtube.com/watch?v=YiD9SJIdiaE",
+            "hz": "60",
+            "percent": 100
+        }
+    ]
+}

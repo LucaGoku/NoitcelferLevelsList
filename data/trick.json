@@ -1,0 +1,51 @@
+{
+    "id": 78788239,
+    "name": "TriCk no extend",
+    "author": "EmpanadR",
+    "creators": [
+        "EmpanadR"
+    ],
+    "verifier": "Ray131",
+    "verification": "https://www.youtube.com/watch?v=wO2xJ3CvxFU",
+    "percentToQualify": "100",
+    "FPS": "60",
+    "tags": ["60 FPS", "No Transition", "Straight Spam"],
+    "records": [
+        {
+            "user": "PaperGuy",
+            "link": "https://youtu.be/e7V4JF1FLgI?si=Yddo-ZKH-HSZN0to",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ywuChaos",
+            "link": "https://www.youtube.com/watch?v=Y8q5eZAP9-o&feature=youtu.be",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "JoeBTD",
+            "link": "https://youtu.be/xb456G2iX60?si=I0QDKPp95B20OUQT",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "loooookkk",
+            "link": "https://www.youtube.com/watch?v=FPwO-IqDu1Q",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ad3usgmd",
+            "link": "https://www.youtube.com/watch?v=R6IrG5UBLeU",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Sol-XSL",
+            "link": "https://youtu.be/VEFuT95ddjk",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

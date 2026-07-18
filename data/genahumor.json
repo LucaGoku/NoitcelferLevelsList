@@ -1,0 +1,31 @@
+{
+    "id": 113795758,
+    "name": "gen a humor",
+    "author": "pixelfactorial",
+    "creators": [],
+    "verifier": "pixelfactorial",
+    "verification": "https://www.youtube.com/watch?v=W7ObL4dYQDg",
+    "percentToQualify": "100",
+    "fps": "90",
+    "tags": ["60 FPS", "With Transition", "Straight Spam"],
+    "records": [
+        {
+            "user": "PaperGuy",
+            "link": "https://www.youtube.com/watch?v=aXF0d41Kg40",
+            "hz": 90,
+            "percent": 100
+        },
+        {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/RjbwBEYxBGE",
+            "hz": "90",
+            "percent": 100
+        },
+        {
+            "user": "loooookkk",
+            "link": "https://youtu.be/FnYQdJ3AcSM",
+            "hz": "90",
+            "percent": 100
+        }
+    ]
+}

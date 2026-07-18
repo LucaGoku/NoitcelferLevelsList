@@ -1,0 +1,37 @@
+{
+    "id": 68685095,
+    "name": "blades",
+    "author": "Tap33",
+    "creators": [
+        "Tap33"
+    ],
+    "verifier": "Ray131",
+    "verification": "https://www.youtube.com/watch?v=ycXzO6xWnI4",
+    "percentToQualify": "100",
+    "FPS": "60",
+    "tags": [
+        "Straight",
+        "60 FPS",
+        "No Transition"
+    ],
+    "records": [
+        {
+            "user": "PaperGuy",
+            "link": "https://www.youtube.com/watch?v=QWUtRJU5j4c",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "ywuChaos",
+            "hz": 60,
+            "link": "https://youtu.be/bS9TDnP_dJk",
+            "percent": 100
+        },
+        {
+            "user": "loooookkk",
+            "link": "https://youtu.be/IV0IacuY3_s?si=03C8WoK6UB91vqcq&t=155",
+            "hz": 60,
+            "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "id": 65309647,
+    "name": "J",
+    "author": "Th3name",
+    "creators": [
+        "Th3name"
+    ],
+    "verifier": "NXISE",
+    "verification": "https://www.youtube.com/watch?v=C7UtVhAWF4sd",
+    "percentToQualify": "100",
+    "FPS": "60",
+    "tags": ["60 FPS", "With Transition", "Straight Spam"],
+    "records": [
+        {
+            "user": "PaperGuy",
+            "link": "https://youtu.be/EEJasGGt9H4?t=12",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "IsntAdam",
+            "hz": 60,
+            "link": "https://www.youtube.com/watch?v=MgXGlj8Ln-Q",
+            "percent": 100
+        },
+        {
+            "user": "Frozix",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "PureL",
+            "link": "https://medal.tv/games/geometry-dash/clips/iHydJsOkJOHc6E4FL/d1337V4lBPDe?invite=cr-MSxGMTEsNDY0ODc4OSw",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "LucaGMD",
+            "link": "https://youtu.be/FBEq-RBhxVA",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "MM9000",
+            "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1303856828677095505",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "pixelfactorial",
+            "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1304676255085367357",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Amigo16",
+            "hz": 60,
+            "link": "https://www.youtube.com/watch?v=xyQoMGsiNlo",
+            "percent": 100
+        },
+        {
+            "user": "JayGol",
+            "hz": 60,
+            "percent": 100
+        }
+    ]
+}

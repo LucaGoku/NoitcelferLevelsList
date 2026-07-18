@@ -1,0 +1,45 @@
+{
+    "id": 118363404,
+    "name": "joke level",
+    "author": "heitorfbd",
+    "creators": [
+        "heitorfbd"
+    ],
+    "verifier": "ywuChaos",
+    "verification": "https://www.youtube.com/watch?v=22DGrenTgwo",
+    "percentToQualify": "100",
+    "FPS": "60",
+    "tags": ["60 FPS", "No Transition", "Straight Spam"],
+    "records": [
+        {
+            "user": "Astroguy",
+            "hz": 60,
+            "link": "https://www.youtube.com/watch?v=rNaui-WApgg",
+            "percent": 100
+        },
+        {
+            "user": "loooookkk",
+            "link": "https://youtu.be/IV0IacuY3_s?si=03C8WoK6UB91vqcq&t=166",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "pixelfactorial",
+            "link": "https://youtu.be/FchOb4wJEmI",
+            "hz": "60",
+            "percent": 100
+        },
+        {
+            "user": "PaperGuy",
+            "link": "https://youtu.be/rWf0lI6zy1E",
+            "hz": "60",
+            "percent": 100
+        },
+        {
+            "user": "ad3usgmd",
+            "link": "https://www.youtube.com/watch?v=O2EFKvP8z6w",
+            "hz": "60",
+            "percent": 100
+        }
+    ]
+}

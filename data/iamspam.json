@@ -1,0 +1,27 @@
+{
+    "id": 116181206,
+    "name": "I AM SPAM",
+    "author": "aelzfr",
+    "creators": [
+        "aelzfr"
+    ],
+    "verifier": "ywuChaos",
+    "verification": "https://www.youtube.com/watch?v=c_0KDoUWsvc&embeds_referring_euri=https%3A%2F%2Fspamchallenge.pages.dev%2F&source_ve_path=MjM4NTE",
+    "percentToQualify": "100",
+    "FPS": "60",
+    "tags": ["60 FPS", "No Transition", "Straight Spam"],
+    "records": [
+        {
+            "user": "PaperGuy",
+            "link": "https://www.youtube.com/watch?v=41at57mCsDc",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "loooookkk",
+            "link": "https://www.youtube.com/watch?t=207&v=-m8VcZnAdzc&feature=youtu.be",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

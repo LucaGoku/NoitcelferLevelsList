@@ -1,0 +1,21 @@
+{
+    "id": 67262498,
+    "name": "MODERN VIP (Jitter)",
+    "author": "TTSum",
+    "creators": [
+        "TTSum"
+    ],
+    "verifier": "REQUIEMHUNGERS",
+    "verification": "https://www.youtube.com/watch?v=goq2_6MCw6A",
+    "percentToQualify": "100",
+    "FPS": "60",
+    "tags": ["60 FPS", "No Transition", "Straight Spam", "Jitter"],
+    "records": [
+        {
+            "user": "IsntAdam",
+            "link": "https://www.youtube.com/watch?v=Wuw1bBgfGBs",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "id": 112602432,
+    "name": "loss of blood",
+    "author": "nucleus",
+    "creators": [
+        "nucleus"
+    ],
+    "verifier": "pixelfactorial",
+    "verification": "https://youtu.be/A2RJAVKxu18",
+    "percentToQualify": "100",
+    "FPS": "60",
+    "tags": ["60 FPS", "No Transition", "Straight Spam"],
+    "records": [
+        {
+            "user": "Xnor",
+            "link": "https://youtu.be/A2RJAVKxu18",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "PaperGuy",
+            "link": "https://www.youtube.com/watch?v=T2q2svhIiSI",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Pastelliano",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/_sqkvmxKjF4",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "AH4HA",
+            "link": "https://youtu.be/x05g9Ia9uz4",
+            "hz": "60",
+            "percent": 100
+        },
+        {
+            "user": "loooookkk",
+            "link": "https://youtu.be/IV0IacuY3_s?si=03C8WoK6UB91vqcq&t=78",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "PureL",
+            "link": "https://www.youtube.com/watch?v=lJtnSOz5KEw",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Sol-XSL",
+            "link": "https://youtu.be/qDijDODC_co",
+            "hz": "60",
+            "percent": 100
+        }
+    ]
+}

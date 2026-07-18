@@ -1,0 +1,49 @@
+{
+    "id": 72461422,
+    "name": "Chicken chop",
+    "author": "EmpanadR",
+    "creators": [
+        "TTSum"
+    ],
+    "verifier": "Ray131",
+    "verification": "https://www.youtube.com/watch?v=Pn5HeH1dPU4",
+    "percentToQualify": "100",
+    "FPS": "60",
+    "tags": [
+        "60 FPS",
+        "No Transition",
+        "Straight Spam"
+    ],
+    "records": [
+        {
+            "user": "PaperGuy",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/dmx0f1kmmGI",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "loooookkk",
+            "link": "https://youtu.be/-m8VcZnAdzc?si=n2Ds-MQJbkLvsB3A&t=86",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ad3usgmd",
+            "link": "https://www.youtube.com/watch?v=O2EFKvP8z6w",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Sol-XSL",
+            "link": "https://youtu.be/rmUYuu1VC6Y",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

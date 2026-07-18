@@ -1,0 +1,63 @@
+{
+    "id": 116490879,
+    "name": "trollface spam",
+    "author": "cookie498",
+    "creators": [
+        "pixelfactorial"
+    ],
+    "verifier": "pixelfactorial",
+    "verification": "https://youtu.be/0uVxcx_arcM",
+    "percentToQualify": "100",
+    "FPS": "60",
+    "tags": ["60 FPS", "No Transition", "Straight Spam"],
+    "records": [
+        {
+            "user": "ywuChaos",
+            "hz": 60,
+            "percent": 100,
+            "link": "https://youtu.be/0uVxcx_arcM"
+        },
+        {
+            "user": "Astroguy",
+            "link": "https://youtu.be/kSHTr95sQwo?si=MA1H5BFqfe3c0ab6&t=12",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Frozix",
+            "link": "https://youtu.be/4WhkcqN40Zw?si=UU6TTXGGRNCNhr4l&t=10",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "ad3usgmd",
+            "link": "https://www.youtube.com/watch?v=-Es8WJq4cvY",
+            "hz": "60",
+            "percent": 100
+        },
+        {
+            "user": "loooookkk",
+            "link": "https://youtu.be/IV0IacuY3_s?si=03C8WoK6UB91vqcq&t=53",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Thepaekboy",
+            "link": "https://youtu.be/CSaBS-Kgrm8?si=T58CgpH2eCML6_EN",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "PaperGuy",
+            "link": "https://www.youtube.com/watch?v=8y23QZAhmuA",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "MiRPack19",
+            "link": "https://cdn.discordapp.com/attachments/1268386862079283222/1398253848166137957/trollface_spam.mp4?ex=6884b0df&is=68835f5f&hm=5f8cbff4e9f9567cf73fded55032377d8c6950acde10a2671a12d7e932b35fdf&",
+            "hz": "60",
+            "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": 123690250,
+    "name": "Feeling 60 Inches",
+    "author": "MrDrool",
+    "creators": ["MrDrool"],
+    "verifier": "loooookkk",
+    "verification": "https://youtu.be/zVoiWgbRqJM?si=bCr5L88QnqE6iS3H",
+    "percentToQualify": "100",
+    "FPS": "60",
+    "tags": ["Straight Spam", "60 FPS", "No Transition"],
+    "records": [
+        {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/zVoiWgbRqJM?si=bCr5L88QnqE6iS3H",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "id": 68546013,
+    "name": "for th3name",
+    "author": "Th3name",
+    "creators": [],
+    "verifier": "Th3name",
+    "verification": "https://www.youtube.com/watch?v=yj0kHtEJ7kA",
+    "percentToQualify": "100",
+    "FPS": "60",
+    "tags": ["60 FPS", "With Transition", "Straight Spam"],
+    "records": [
+        {
+            "user": "PaperGuy",
+            "link": "https://www.youtube.com/watch?v=iQLIwQqiYCw",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Me24345",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "IsntAdam",
+            "link": "https://youtu.be/CaeNnyaeW_k?si=Pk4EPc2ky8yCOriN",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "ywuChaos",
+            "link": "https://www.youtube.com/watch?v=Q_Dwkav3EtE",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "JoeBTD",
+            "link": "https://www.youtube.com/watch?v=lw2L8OKp2Dg",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "TheChunkiestBunky",
+            "link": "https://m.youtube.com/watch?v=BqfIk2THyDc",
+            "hz": 60,
+            "percent": 100
+        }
+    ]
+}

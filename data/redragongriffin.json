@@ -1,0 +1,48 @@
+{
+    "id": 80613435,
+    "name": "redragon griffin",
+    "author": "Pastelliano",
+    "creators": [],
+    "verifier": "Pastelliano",
+    "verification": "https://www.youtube.com/watch?v=pAqH7r512hA",
+    "percentToQualify": "100",
+    "FPS": "60",
+    "tags": ["60 FPS", "No Transition", "Straight Spam"],
+    "records": [
+        {
+            "user": "PaperGuy",
+            "link": "https://www.youtube.com/watch?v=aV5iuliJCVs",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Me24345",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/c_4TBRlYZfI",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "pixelfactorial",
+            "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1350726350801211454",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "loooookkk",
+            "link": "https://youtu.be/IV0IacuY3_s?si=03C8WoK6UB91vqcq&t=182",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "JoeBTD",
+            "link": "https://youtu.be/P6E6nrGUKQ4?si=mflkAaXCtTI0IWiM&t=10",
+            "hz": 60,
+            "percent": 100
+        }
+    ]
+}

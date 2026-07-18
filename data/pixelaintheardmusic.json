@@ -1,0 +1,33 @@
+{
+    "id": 121286034,
+    "name": "pixelaintheardmusic",
+    "author": "sDunix",
+    "creators": [
+        "sDunix"
+    ],
+    "verifier": "pixelfactorial",
+    "verification": "https://www.youtube.com/watch?v=ftcK1oI7NFA",
+    "percentToQualify": "100",
+    "FPS": "60",
+    "tags": ["60 FPS", "No Transition", "Straight Spam"],
+    "records": [
+        {
+            "user": "loooookkk",
+            "link": "https://streamable.com/kgvnha",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "ywuChaos",
+            "link": "https://www.youtube.com/live/vAQNrjiJ43U?si=kfjzXlPHHlCF1PGD&t=6828",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Astroguy",
+            "link": "https://youtu.be/72ZgLP-J9XE?si=d9bi2T3xYy0nq_TU&t=24",
+            "hz": "60",
+            "percent": 100
+        }
+    ]
+}
