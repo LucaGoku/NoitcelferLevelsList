@@ -111,31 +111,19 @@ export default {
                     </template>
                     <h3>List Requirements</h3>
                     <p>
-                        The difficulty must be almost all in the spam of the level. You are allowed to put a triple spike or a timing at the end or beginning.
+                        Must beat the level without cheating (if there is any way of doing so).
                     </p>
                     <p>
-                        You are not allowed to use methods of spamming that require little effort for very high amounts of cps, such as drag clicking, bolt clicking.
+                        Must include the level code in the description of the video.
                     </p>
                     <p>
-                        The lowest respawn time is 0.5 seconds.
+                        The video must be available on YouTube.
                     </p>
                     <p>
-                        A maximum of 2 inputs are allowed when spamming.
+                        Verifications and records need to have audible inputs. Input display is recommended but not required.
                     </p>
                     <p>
-                        You must not use capped hardware to spam as it gives an unfair advantage at frame perfect spam.
-                    </p>
-                    <p>
-                        Rebinding keys IS allowed as long as you use only 2 or less keys!
-                    </p>
-                    <p>
-                        It may say Spam "Challenge" List, however there is not really a time limit.
-                    </p>
-                    <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
-                    </p>
-                    <p>
-                        Only levels that have 15 CPS frame perfect spam are allowed on the list. Higher FPS like 120 FPS (twice the FPS) or harder methods like jitterclicking are allowed to make the level harder.
+                        You must show the entire code after level completion/verification.
                     </p>
                 </div>
             </div>
